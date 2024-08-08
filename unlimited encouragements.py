@@ -4,4 +4,4 @@ while True:
         print('I told you can!')
         break
     else:
-        print("Don't give up! I believe you can") #unlimited encouragements
+        print("Don't give up! I believe you can") #infinite encouragements
